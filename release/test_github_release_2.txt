@@ -1,0 +1,55 @@
+######## 
+
+git add test_github_2.txt && git commit -m "^TP-805 Relates to ^TP-803." && git pushddfsdff
+git add test_github_2.txt && git commit -m "#TP-805 Relates to #TP-803." && git push
+
+git add test_github_2.txt && git commit -m "#TP-807 State Open" && git push
+
+git add test_github_2.txt && git commit -m "#TP-1761 State Open" && git push
+
+*********************************************************************
+addsa
+sdsadsdfgsdfgdfsgsad
+sdfsd
+fsdf
+sdf
+sf
+df
+dasdasdsadsad
+s
+sadsdsadas
+dasd
+ssadsa
+dsa
+
+
+asdsddasd
+
+sasdasdsad
+фвzc
+asdsdsdfsdfdsfasdsad
+asdsadasdsadфывыфвфывфывыфввапапав
+asdasdsadывфаывфаdfsdfsdffddfdfdsfasdsd
+asdssadasdadsdsdfdfasdasdsd
+asdasdsadasdasd
+adadsadasdasdasdsdasdsadasdasds
+
+aasdadsd
+cxzcffdgdfgf
+dsadsadsaddsadasdsadasd
+
+dsadsad
+sdfsdf
+
+
+
+
+
+
+
+
+
+
+
+
+
