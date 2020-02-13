@@ -33,11 +33,11 @@ git add * && git commit -m "Commit from Gitlab **** #TP3-10, #TP1-12, #TP2-12 St
 
 git add * && git commit -m "Commit from Gitlab + CI + Ups **** 7 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
-git add * && git commit -m "Commit from Gitlab + Upsourse **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 
 
-git add * && git commit -m "Commit from Gitlab + Upsourse **** 2 #TP1-8, #TP1-9, #TP1-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit **** 2 #TP1-8, #TP1-9, #TP1-10 State Fixed Priority show-stopper" && git push
 
 
 *********************************************************************
@@ -66,5 +66,5 @@ examaple cherry-pick  Commit 5
 examaple cherry-pick  Commit 6
 examaple cherry-pick  Commit 7
 examaple cherry-pick  Commit 8
-sdfsdfsdf
+sdfsdfsdfdsfsdfdsfds
 sfsdfsdfdfsdfsdfsddffasdfsdfsdfdsfsdfsdfdsdasdasdsadfasdasdsasdasdasdadsdfsasdasddsdff
