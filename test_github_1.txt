@@ -36,6 +36,10 @@ git add * && git commit -m "Commit from Gitlab + CI + Ups **** 7 #TP1-12, #TP2-1
 git add * && git commit -m "Commit from Gitlab + Upsourse **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 
+
+git add * && git commit -m "Commit from Gitlab + Upsourse **** 2 #TP1-8, #TP1-9, #TP1-10 State Fixed Priority show-stopper" && git push
+
+
 *********************************************************************
 
 +:refs/heads/master
