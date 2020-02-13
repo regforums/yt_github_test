@@ -1,15 +1,39 @@
 ######## 
 
-git add test_github_1.txt && git commit -m "Commit from GitHub. #TP-2 State Open
-The comment message" && git push
+git add * && git commit -m "Commit from Gitlab **** 1 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper
+Comment (line 1)
+Comment (line 2)
+" && git push
+
+git add * && git commit -m "Subject line #TP1-12 State Open
+Comment (line 1)
+Comment (line 2)" && git push
+
+git add * && git commit -m "Subject line #TP1-12,#TP2-12  State Open
+Comment (line 1)
+Comment (line 2)" && git push
 
 
-git add test_github_1.txt && git commit -m "Commit from CI. #TP1-15 State Can't Reproduce Priority Critical" && git push
+# Group 1. TP1-
+git add * && git commit -m "Commit from Gitlab **** #TP1-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
-git add test_github_1.txt && git commit -m "Commit from CI. @bee. #TP-13 State Fixed Priority Show-stopper
-@bee." && git push
+# Group 1. TP2-
+git add * && git commit -m "Commit from Gitlab **** #TP2-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP2-12, #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
-git add test_github_1.txt && git commit -m "Upsource 5. #TP-15 Priority Show-stopper" && git push
+# Group 1. TP3-
+git add * && git commit -m "Commit from Gitlab **** #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP3-10, #TP1-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #TP3-10, #TP1-12, #TP2-12 State Fixed Priority show-stopper" && git push
+
+
+
+git add * && git commit -m "Commit from Gitlab + CI + Ups **** 7 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+
+git add * && git commit -m "Commit from Gitlab + Upsourse **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 
 *********************************************************************
@@ -20,19 +44,23 @@ git add test_github_1.txt && git commit -m "Upsource 5. #TP-15 Priority Show-sto
 
 State: Fixed State: Verified resolved date: ${prev.build.time} .. ${build.time}
 
-BuildTime ${build.time} PrevBuildTime ${prev.build.time} Build ${build}
+BuildTime ${build.time} PrevBuildTime ${prev.builsdfsdffdd.time} Build ${build}
 
 BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 
 
 
 *********************************************************************
-ddddddddsfsdfdffdfssdfsdfdsffdsfdfsdfsdfsdffdfsdfddfdsfsdffdsdfssdfsdfsdfdsfdfdsdfdfdffывыфа
-dfgdfgdfgdfgsadsadsdsd
-dasddsdasd
-dfdf
-Up 1dasdasdsdsddsfsdf
-ыаdfgdfgdfgsdfasdfsdafs
-ывsdfsdfdf
-ав
-а
+State Open Priority Minor
+
+git cherry-pick 
+examaple cherry-pick  Commit 1
+examaple cherry-pick  Commit 2
+examaple cherry-pick  Commit 3
+examaple cherry-pick  Commit 4
+examaple cherry-pick  Commit 5
+examaple cherry-pick  Commit 6
+examaple cherry-pick  Commit 7
+examaple cherry-pick  Commit 8
+sdfsdfsdf
+sfsdfsdfdfsdfsdfsddffasdfsdfsdfdsfsdfsdfdsdasdasdsadfasdasdsadsdfsasdasddsdff
