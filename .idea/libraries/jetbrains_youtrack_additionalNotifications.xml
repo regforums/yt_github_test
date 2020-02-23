@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jetbrains-youtrack-additionalNotifications">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/youtrack-workflow/src/test/resources/jetbrains-youtrack-additionalNotifications.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
