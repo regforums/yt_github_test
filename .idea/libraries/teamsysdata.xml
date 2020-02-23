@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="teamsysdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-frontend/test/e2e/teamsysdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="teamsysdata1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-webapp/src/test/resources/jetbrains/youtrack/rest/teamsysdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

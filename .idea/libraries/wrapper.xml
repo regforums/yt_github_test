@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-hosted-instance/resources/lib64/wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

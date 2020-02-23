@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/charisma-app" />
+            <option value="$PROJECT_DIR$/charisma-customfields" />
+            <option value="$PROJECT_DIR$/charisma-testing" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/youtrack-api" />
+            <option value="$PROJECT_DIR$/youtrack-application" />
+            <option value="$PROJECT_DIR$/youtrack-articles" />
+            <option value="$PROJECT_DIR$/youtrack-commands" />
+            <option value="$PROJECT_DIR$/youtrack-core" />
+            <option value="$PROJECT_DIR$/youtrack-custom-notifications" />
+            <option value="$PROJECT_DIR$/youtrack-data-analysis" />
+            <option value="$PROJECT_DIR$/youtrack-events" />
+            <option value="$PROJECT_DIR$/youtrack-frontend" />
+            <option value="$PROJECT_DIR$/youtrack-gap-doc" />
+            <option value="$PROJECT_DIR$/youtrack-gap-rest" />
+            <option value="$PROJECT_DIR$/youtrack-github-integration" />
+            <option value="$PROJECT_DIR$/youtrack-hosted-instance" />
+            <option value="$PROJECT_DIR$/youtrack-imports" />
+            <option value="$PROJECT_DIR$/youtrack-imports-testing" />
+            <option value="$PROJECT_DIR$/youtrack-integrations-testing" />
+            <option value="$PROJECT_DIR$/youtrack-jenkins-integration" />
+            <option value="$PROJECT_DIR$/youtrack-jira-import" />
+            <option value="$PROJECT_DIR$/youtrack-jira-import-testing" />
+            <option value="$PROJECT_DIR$/youtrack-localization" />
+            <option value="$PROJECT_DIR$/youtrack-mailbox" />
+            <option value="$PROJECT_DIR$/youtrack-maintenance" />
+            <option value="$PROJECT_DIR$/youtrack-old-rest" />
+            <option value="$PROJECT_DIR$/youtrack-parser" />
+            <option value="$PROJECT_DIR$/youtrack-reports" />
+            <option value="$PROJECT_DIR$/youtrack-ring-bundle" />
+            <option value="$PROJECT_DIR$/youtrack-ring-bundle-callbacks" />
+            <option value="$PROJECT_DIR$/youtrack-ring-integration" />
+            <option value="$PROJECT_DIR$/youtrack-scripts" />
+            <option value="$PROJECT_DIR$/youtrack-scripts-testing" />
+            <option value="$PROJECT_DIR$/youtrack-scrumboard" />
+            <option value="$PROJECT_DIR$/youtrack-search" />
+            <option value="$PROJECT_DIR$/youtrack-standalone" />
+            <option value="$PROJECT_DIR$/youtrack-teamcity-integration" />
+            <option value="$PROJECT_DIR$/youtrack-test-utils" />
+            <option value="$PROJECT_DIR$/youtrack-text-search" />
+            <option value="$PROJECT_DIR$/youtrack-time-tracking" />
+            <option value="$PROJECT_DIR$/youtrack-upsource-integration" />
+            <option value="$PROJECT_DIR$/youtrack-vcs-ci-integration" />
+            <option value="$PROJECT_DIR$/youtrack-webapp" />
+            <option value="$PROJECT_DIR$/youtrack-webdriver-tests" />
+            <option value="$PROJECT_DIR$/youtrack-workflow" />
+            <option value="$PROJECT_DIR$/youtrack-workflow/i18n" />
+            <option value="$PROJECT_DIR$/youtrack-zendesk-integration" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

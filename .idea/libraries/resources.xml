@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/teamsysdata-empty.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/bundle-conf.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/docker-conf.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/translation-test-database.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/teamsysdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

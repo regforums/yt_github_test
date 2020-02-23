@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="2018.4.49531">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/upgrade/2018.4.49531/youtrack-https.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webdriver-tests/src/test/resources/upgrade/2018.4.49531/youtrack-http.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

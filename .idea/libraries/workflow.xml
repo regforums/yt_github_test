@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="workflow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youtrack-webapp/src/test/resources/jetbrains/youtrack/rest/workflow/contracts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webapp/src/test/resources/jetbrains/youtrack/rest/workflow/trash.zip!/" />
+      <root url="jar://$PROJECT_DIR$/youtrack-webapp/src/test/resources/jetbrains/youtrack/rest/workflow/@my.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
