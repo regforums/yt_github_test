@@ -15,23 +15,23 @@ Comment (line 2)" && git push
 
 
 # Group 1. TP1-
-git add * && git commit -m "Commit from Gitlab **** #BDP-656 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #BDP-656 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 # Group 1. TP2-
-git add * && git commit -m "Commit from Gitlab **** #TP2-12 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP2-12, #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-12, #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 # Group 1. TP3-
-git add * && git commit -m "Commit from Gitlab **** #TP3-10 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP3-10, #TP1-12 State Fixed Priority show-stopper" && git push
-git add * && git commit -m "Commit from Gitlab **** #TP3-10, #TP1-12, #TP2-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP3-10, #TP1-12 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP3-10, #TP1-12, #TP2-12 State Fixed Priority show-stopper" && git push
 
 
 
-git add * && git commit -m "Commit from Gitlab + CI + Ups **** 7 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github + CI + Ups **** 7 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
 git add * && git commit -m "Commit **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
@@ -67,5 +67,5 @@ examaple cherry-pick  Commit 5rthdhgfhdfdgsfdgdf
 examaple cherry-pick  Commit 6sdfsdfsdfd
 examaple cherry-pick  Commit 7hgjhjgfhjghdsfasdfsadfjdasdsdfsdf
 examaple cherry-pick  Commit 8cvzcxvzcvcxvfsdfdssdfgsdfgdfsgdfsfdgfdgsdfggfdssdfdfsscdscdsfdfsdfsdfsdfdsfdfsdfdsffdgffhgfgfhsdfdsfdsghdgfhgfh
-sdfsdfsdfdsfsdfdsfdsfdgdfgfdgghggghdfgdfgdfgsadfdsfdsfsdfasdfadsfasdfdssdfsdfgsdfgfddfsdsdrreretre
+sdfsdfsdfdsfsdfdsfdsfdgdfgfdgghggghdfgdfgdfgsadfdsfdsfsdfasdsdfgsdfgsdfadsfasdfdssdfsdfgsdfgfddfsdsdrreretre
 sdfrfrretretretfdgfdgfddgdgfdgfdfdgdffgfsdfdfdsfsdfsdfsdf
