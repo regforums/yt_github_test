@@ -15,7 +15,7 @@ Comment (line 2)" && git push
 
 
 # Group 1. TP1-
-git add * && git commit -m "Commit from Gitlab **** #TP1-35 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Gitlab **** #BDP-656 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Gitlab **** #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
@@ -68,4 +68,4 @@ examaple cherry-pick  Commit 6sdfsdfsdfd
 examaple cherry-pick  Commit 7hgjhjgfhjghdsfasdfsadfjdasdsdfsdf
 examaple cherry-pick  Commit 8cvzcxvzcvcxvfsdfdssdfgsdfgdfsgdfsfdgfdgsdfggfdssdfdfsscdscdsfdfsdfsdfsdfdsfdfsdfdsffdgffhgfgfhsdfdsfdsghdgfhgfh
 sdfsdfsdfdsfsdfdsfdsfdgdfgfdgghggghdfgdfgdfgsadfdsfdsfsdfasdfadsfasdfdssdfsdfgsdfgfddfsdsdrreretre
-sdfrfrretretretfdgfdgfddgdgfdgfdfdgdffgfsdfdfdsf
+sdfrfrretretretfdgfdgfddgdgfdgfdfdgdffgfsdfdfdsfsdfsdfsdf
