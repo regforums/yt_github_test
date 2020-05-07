@@ -15,7 +15,21 @@ Comment (line 2)" && git push
 
 
 # Group 1. TP1-
-git add * && git commit -m "Commit from Github **** #BDP-656 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-1 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-2 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-3 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-4 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP1-5 State Fixed Priority show-stopper" && git push
+
+
+git add * && git commit -m "Commit from Github **** #TP2-1 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-2 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-3 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-4 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #TP2-5 State Fixed Priority show-stopper" && git push
+
+
+
 git add * && git commit -m "Commit from Github **** #TP1-12, #TP3-10 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Github **** #TP1-12, #TP2-12, #TP3-10 State Fixed Priority show-stopper" && git push
 
@@ -67,5 +81,5 @@ examaple cherry-pick  Commit 5rthdhgfhdfdgsfdgdf
 examaple cherry-pick  Commit 6sdfsdfsdfd
 examaple cherry-pick  Commit 7hgjhjgfhjghdsffgsdgfdagasdfsadfjdasdsdfsdf
 examaple cherry-pick  Commit 8cvzcxvzcvcxvfsdfdssdfgsdfgdfsgdfsfdgfdgsdfggfdssdfdfsscdscdsfdfsdfsdfsdfdsfdfsdfdsffdgffhgfgfhsdfdsfdsghdgfhgfh
-sdfsdfsdfdsfsdfdsfdsfdgdfgfdgghggghdfgdfgdfgsadfdsfdsfsdfasdsdfgsdfgsdfadsfasdfdssdfsdfgsdfgfddfsdsdrreretre
+sdfsdfsdfdsfsdfdsfdsfdgdfgfdgghggghdfgdfgdfgsadfasdfasdfasdfdsfdsfsdfasdsdfgsdfgsddfgdfgdfgfadsfasdfdssdfsdfgsdfgfddfsdsdrreretre
 sdfrfrretretretfdgfdgfddgdgfdgfdfdgdffgfsdfdfdsfsdfsdfsdf
