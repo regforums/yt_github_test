@@ -55,12 +55,12 @@ git add * && git commit -m "Commit **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed 
 git add * && git commit -m "Commit **** 2 #TP1-8, #TP1-9, #TP1-10 State Fixed Priority show-stopper" && git push
 
 Pull request
-git add * && git commit -m "Commit **** 2 #TP1-69, #TP2-56  State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit **** 2 #TP1-78, #TP2-65  State Fixed Priority show-stopper" && git push
 
-
-State: Fixed State: Verified State: Open State: Submitted 
 
 *********************************************************************
+
+State: Fixed State: Verified State: Open State: Submitted 
 
 +:refs/heads/master
 +:refs/heads/feature-1
@@ -79,4 +79,6 @@ git Pull request
 Pull request 11. Monitored branches filled with
 +:refs/heads/master
 +:refs/heads/feature-1 
-xxxxxx
+
+
+xxxxxx   xxxxxx
