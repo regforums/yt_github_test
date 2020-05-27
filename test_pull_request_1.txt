@@ -54,6 +54,10 @@ git add * && git commit -m "Commit **** 2 #TP1-12, #TP2-12, #TP3-10 State Fixed 
 
 git add * && git commit -m "Commit **** 2 #TP1-8, #TP1-9, #TP1-10 State Fixed Priority show-stopper" && git push
 
+Pull request
+git add * && git commit -m "Commit **** 2 #TP1-69, #TP2-56, #TP1-10 State Fixed Priority show-stopper" && git push
+
+
 State: Fixed State: Verified State: Open State: Submitted 
 
 *********************************************************************
@@ -71,10 +75,8 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 
 
 *********************************************************************
-State Open Priority Minor
+git Pull request
+examaple Pull request 1
 
-git cherry-pick 
-examaple cherry-pick  Commit 1
-examaple cherry-pick  Commit 2
-    Asdasdsdafasdfasdf
-asdfasdfasdfdasfdsfadsfgh fdgsdfasdfasdfsdfsdfsdasdadsfgdfgsdfsfsdfsdfdsdafsdfdsdsddsfasdfsdfsdfsfsdfsdfsdsadfaasdfsdfasdsdfaasdfasdfsdasdfasdfasds
+
+
