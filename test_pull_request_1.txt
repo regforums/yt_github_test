@@ -63,8 +63,7 @@ State: Fixed State: Verified State: Open State: Submitted
 *********************************************************************
 
 +:refs/heads/master
-+:refs/heads/feature*
--:refs/heads/exclude_branch
++:refs/heads/feature-1
 
 State: Fixed State: Verified resolved date: ${prev.build.time} .. ${build.time}
 
@@ -77,7 +76,8 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 *********************************************************************
 git Pull request
 
-Pull request 5. 
+Pull request 6. 
+
  
 
 
