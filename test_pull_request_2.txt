@@ -79,10 +79,7 @@ git Pull request
 Pull request 11. Monitored branches filled with
 +:refs/heads/master
 +:refs/heads/feature-1
-<<<<<<< HEAD
-fddsfdf
-=======
 
->>>>>>> c23e08fd26e679d77f6ef538c73b8ba0e6b7b583
-xxx xxxsad fasdfasdf
+
+
 
