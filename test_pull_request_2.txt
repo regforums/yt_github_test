@@ -80,5 +80,5 @@ Pull request 11. Monitored branches filled with
 +:refs/heads/master
 +:refs/heads/feature-1
 
-xxx
+xxx xxx
 
