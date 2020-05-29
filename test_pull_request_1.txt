@@ -81,9 +81,4 @@ Pull request 11. Monitored branches filled with
 +:refs/heads/feature-1 
 
 
-<<<<<<< HEAD
-x1 
-=======
-
-xxxxxx   xxxxxx xxxx xxxxx cccc sdfsdf dcdsf sdf asdfads sd fgsdf gsdf sdfasdf asd
->>>>>>> 35350b2598bc78e4fbc370240891c4bbed6b5cab
+sdfsdfsdfsdf
