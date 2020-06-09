@@ -74,9 +74,5 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 
 
 *********************************************************************
-<<<<<<< HEAD
-git Pull request
-dfgsdfgsdfg fdsfsd sdfgsdfgasdfasdf
-=======
-git Pull request
->>>>>>> 487eba0665c82c7a8bcf7452aade4faec310016e
+
+75 76 77 78 79 79 80 82
