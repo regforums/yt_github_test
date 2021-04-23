@@ -70,6 +70,7 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 
 
 *********************************************************************
-State Open Priority Minorsdfsdfdsfdssafdsf
-Asdasdasdasdsdfsdfdsdfgsdfgsdfsdfsdfsdsdfsdfdsfsdsdfdsfdsdfsdsdfsdfdsfdssdsasdfssdfdsfdfdsfsdassdfsdfdsdsassdfsdfdfa
-Dsfsdfsdfdsasdfasdfsdfasdfasdsdfasdfadsdfgfdgfd sadfasdfasdfsdfsdf
+State Open Priority Minor
+Commit 1
+
+
