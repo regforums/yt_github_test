@@ -15,7 +15,7 @@ Comment (line 2)" && git push
 
 
 # Group 1. TP1-
-git add * && git commit -m "Commit from Github **** #TP3-40 State Fixed Priority show-stopper" && git push
+git add * && git commit -m "Commit from Github **** #HD1-1 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Github **** #TP1-2 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Github **** #TP1-3 State Fixed Priority show-stopper" && git push
 git add * && git commit -m "Commit from Github **** #TP1-4 State Fixed Priority show-stopper" && git push
@@ -72,4 +72,4 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 *********************************************************************
 State Open Priority Minorsadfasdfds
 Sdfsdfdsfsdfsdasdfasdfasdffsdfsdfdfadsfdsfdfasdfasdsdfsdfsdfываывав
-Ываывавыываываыв
+Ываывавыываываывdsfsdfds
