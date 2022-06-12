@@ -70,13 +70,4 @@ BuildTime: ${build.time} PrevBuildTime: ${prev.build.time} Build: ${build}
 
 
 *********************************************************************
-State Open Priority Minor
-Commit 1
-<<<<<<< HEAD
-Commit 2asdasdasd
-=======sdfsdfsd
-Commit 2sdfsdfsdf
-Commit 3s
-
-
->>>>>>> mastersdfsdfsdfsdfd
+Xxxxxxx 1
